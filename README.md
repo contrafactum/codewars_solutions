@@ -10,3 +10,5 @@ Mostly Python, but there will be some other languages featured, too.
 2. problem: count_bits.py. In this file, there's a function that counts the high bits (a.k.a. the 1s) in the binary representation of an input integer.
 
 3. problem: descending_order.py. In this file, the function essentially rearranges the digits of the input nonnegative integer to create the highest possible number.
+
+4. problem: persistence.py. It contains a function that calculates and returns the multiplicative persistence of a positive integer. More details in said file.
