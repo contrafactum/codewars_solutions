@@ -12,3 +12,5 @@ Mostly Python, but there will be some other languages featured, too.
 3. problem: descending_order.py. In this file, the function essentially rearranges the digits of the input nonnegative integer to create the highest possible number.
 
 4. problem: persistence.py. It contains a function that calculates and returns the multiplicative persistence of a positive integer. More details in said file.
+
+5. problem: split_strings.py. This has a function which splits the string into pairs of two characters. If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore ('_').
