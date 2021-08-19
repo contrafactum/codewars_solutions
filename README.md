@@ -1,5 +1,5 @@
 # codewars_solutions
-My solutions for Codewars problems
+My solutions for Codewars katas (a.k.a. problems).
 
 This repository contains my solutions for Codewars problems I train myself on.
 
@@ -14,3 +14,6 @@ Mostly Python, but there will be some other languages featured, too.
 4. problem: persistence.py. It contains a function that calculates and returns the multiplicative persistence of a positive integer. More details in said file.
 
 5. problem: split_strings.py. This has a function which splits the string into pairs of two characters. If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore ('_').
+
+6. pig_it.py. Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.
+7. 
