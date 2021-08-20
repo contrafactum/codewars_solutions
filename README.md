@@ -16,4 +16,5 @@ Mostly Python, but there will be some other languages featured, too.
 5. problem: split_strings.py. This has a function which splits the string into pairs of two characters. If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore ('_').
 
 6. pig_it.py. Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.
-7. 
+7. deadfish.py. This is a simple parser that will parse and run Deadfish. More details in said file.
+8. 
